@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Welcome, Guest](README.md)
+* [Dirty Work](dirty-work.md)
 * [Guild Organisation](organisation/README.md)
   * [1. nonprofit](organisation/nonprofit.md)
   * [2. cooperative](organisation/cooperative-network.md)
