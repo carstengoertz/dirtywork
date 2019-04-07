@@ -1,6 +1,8 @@
-# Welcome, Guest
+# Hello
 
-## We have just started to cook this meal together. Don't expect to see more than a few raw ingredients at this stage. If you feel like chopping something, let us know. 
+## We just started cooking. Let us show you the kitchen. Help yourself to a drink. We just moved into this place, it's a work in progress. But anyway, it's nice to meet you. What are you working on? 
 
+## \(reply\)
 
+##  
 
