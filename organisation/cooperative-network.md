@@ -4,7 +4,7 @@ description: >-
   contributors.
 ---
 
-# cooperative network
+# 2. cooperative
 
 From Jesse Walden's piece [https://a16z.com/2019/03/02/cooperatives-cryptonetworks/](https://a16z.com/2019/03/02/cooperatives-cryptonetworks/):
 

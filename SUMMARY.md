@@ -1,12 +1,13 @@
 # Table of contents
 
-* [DIRTY WORK](README.md)
+* [Intro](README.md)
 * [Guild Organisation](organisation/README.md)
-  * [nonprofit](organisation/nonprofit.md)
-  * [cooperative network](organisation/cooperative-network.md)
-  * [open organisation](organisation/open-organisation.md)
-  * [open governance](organisation/open-governance.md)
-  * [code of conduct](organisation/code-of-conduct.md)
+  * [1. nonprofit](organisation/nonprofit.md)
+  * [2. cooperative](organisation/cooperative-network.md)
+  * [3. open organisation](organisation/open-organisation.md)
+  * [4. open governance](organisation/open-governance.md)
+  * [5. open source](organisation/5.-open-source.md)
 * [Guild Member Directory](guild-member-directory.md)
-* [Guild Accounts](accounts.md)
+* [Guild Accounts / Stack](accounts.md)
+* [Code of Conduct](code-of-conduct.md)
 

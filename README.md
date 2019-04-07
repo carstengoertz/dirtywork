@@ -1,4 +1,4 @@
-# DIRTY WORK
+# Intro
 
 Dirty Work is the work we never really wanted to do, like unblocking the drains or taking the trash out. After some decades of not dealing with trash or drains on a global scale, we are left with a rotting mess.
 
